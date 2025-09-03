@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amber": 24,
+    "minestuck:build": 52,
+    "minestuck:iodine": 33
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:honey_gushers"
+  }
+}

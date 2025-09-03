@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:silver_spoon"
+  },
+  "input2": {
+    "item": "alchemyexpanded:cursed_tape"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:cooking_with_sadako"
+}

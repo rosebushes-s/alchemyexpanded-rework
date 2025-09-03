@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amber": 1082,
+    "minestuck:build": 1143,
+    "minestuck:diamond": 428,
+    "minestuck:gold": 946
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:spinner_of_the_cycle"
+  }
+}

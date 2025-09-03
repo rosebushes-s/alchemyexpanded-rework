@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 32,
+    "minestuck:cobalt": 16,
+    "minestuck:mercury": 18
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:cerulean_stacks"
+  }
+}

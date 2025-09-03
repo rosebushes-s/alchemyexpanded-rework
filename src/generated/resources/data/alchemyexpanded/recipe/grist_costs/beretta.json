@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 74,
+    "minestuck:rust": 30,
+    "minestuck:tar": 15
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:beretta"
+  }
+}

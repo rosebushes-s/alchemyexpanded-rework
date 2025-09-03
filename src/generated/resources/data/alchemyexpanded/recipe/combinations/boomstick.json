@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:shotgun"
+  },
+  "input2": {
+    "item": "alchemyexpanded:cursed_tape"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:boomstick"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:ruby": 10,
+    "minestuck:rust": 6,
+    "minestuck:sulfur": 3
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:crockercorp_ammo"
+  }
+}

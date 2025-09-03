@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 114,
+    "minestuck:quartz": 4,
+    "minestuck:sulfur": 62,
+    "minestuck:tar": 73
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:deaths_counterweight"
+  }
+}

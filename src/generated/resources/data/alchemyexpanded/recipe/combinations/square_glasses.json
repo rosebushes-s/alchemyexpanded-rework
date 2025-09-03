@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minecraft:glass_pane"
+  },
+  "input2": {
+    "item": "minecraft:stick"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:square_glasses"
+}

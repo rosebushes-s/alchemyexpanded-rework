@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:flintlock_pistol"
+  },
+  "input2": {
+    "item": "alchemyexpanded:flare"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:flare_gun"
+}

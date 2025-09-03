@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:rifle"
+  },
+  "input2": {
+    "item": "minecraft:black_dye"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:black_assault_rifle"
+}

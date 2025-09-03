@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:rotational_genesis"
+  },
+  "input2": {
+    "item": "alchemyexpanded:deaths_counterweight"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:spinner_of_the_cycle"
+}

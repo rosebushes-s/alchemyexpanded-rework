@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 113,
+    "minestuck:ruby": 26,
+    "minestuck:uranium": 84
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:noxious_burst_cannon"
+  }
+}

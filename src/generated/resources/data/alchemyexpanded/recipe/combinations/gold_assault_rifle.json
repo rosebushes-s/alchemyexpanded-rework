@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:black_assault_rifle"
+  },
+  "input2": {
+    "item": "minecraft:gold_ingot"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:gold_assault_rifle"
+}

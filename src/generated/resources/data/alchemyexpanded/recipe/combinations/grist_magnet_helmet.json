@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:item_magnet_helmet"
+  },
+  "input2": {
+    "item": "minestuck:grist_collector"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:grist_magnet_helmet"
+}

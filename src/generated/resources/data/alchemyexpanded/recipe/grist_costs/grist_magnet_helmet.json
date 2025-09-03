@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 10000,
+    "minestuck:mercury": 984,
+    "minestuck:rust": 956,
+    "minestuck:uranium": 778
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:grist_magnet_helmet"
+  }
+}

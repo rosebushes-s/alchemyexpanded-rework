@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 25,
+    "minestuck:garnet": 1,
+    "minestuck:gold": 10,
+    "minestuck:mercury": 11
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:wizard_spinner"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 30,
+    "minestuck:rust": 12,
+    "minestuck:sulfur": 20,
+    "minestuck:tar": 12
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:flare_gun"
+  }
+}

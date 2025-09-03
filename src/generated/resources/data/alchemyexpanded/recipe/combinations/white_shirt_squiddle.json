@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:white_shirt"
+  },
+  "input2": {
+    "item": "minecraft:ink_sac"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:white_shirt_squiddle"
+}

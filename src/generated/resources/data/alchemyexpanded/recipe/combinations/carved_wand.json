@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:wand"
+  },
+  "input2": {
+    "item": "minecraft:dark_oak_door"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:carved_wand"
+}

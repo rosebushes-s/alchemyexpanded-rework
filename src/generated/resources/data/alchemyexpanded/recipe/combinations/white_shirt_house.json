@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:white_shirt"
+  },
+  "input2": {
+    "item": "minestuck:client_disk"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:white_shirt_house"
+}

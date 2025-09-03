@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 12,
+    "minestuck:gold": 8,
+    "minestuck:mercury": 9
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:yoyo"
+  }
+}

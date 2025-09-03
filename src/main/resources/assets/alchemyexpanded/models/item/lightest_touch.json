@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "alchemyexpanded:item/lightest_touch_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "alchemyexpanded:item/lightest_touch_2d"
+    },
+    "ground": {
+      "parent": "alchemyexpanded:item/lightest_touch_2d"
+    },
+    "fixed": {
+      "parent": "alchemyexpanded:item/lightest_touch_2d"
+    }
+  }
+}

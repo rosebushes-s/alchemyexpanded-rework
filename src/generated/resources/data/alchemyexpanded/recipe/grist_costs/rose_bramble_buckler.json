@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amber": 22,
+    "minestuck:build": 53,
+    "minestuck:iodine": 38
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:rose_bramble_buckler"
+  }
+}

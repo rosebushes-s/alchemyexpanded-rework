@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 68,
+    "minestuck:chalk": 54,
+    "minestuck:iodine": 43
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:milk_gushers"
+  }
+}

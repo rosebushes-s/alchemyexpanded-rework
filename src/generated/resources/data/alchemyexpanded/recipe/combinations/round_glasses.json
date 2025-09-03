@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:square_glasses"
+  },
+  "input2": {
+    "item": "minestuck:blank_disk"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:round_glasses"
+}

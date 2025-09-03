@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:ammo"
+  },
+  "input2": {
+    "item": "minestuck:cake_mix"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:crockercorp_ammo"
+}

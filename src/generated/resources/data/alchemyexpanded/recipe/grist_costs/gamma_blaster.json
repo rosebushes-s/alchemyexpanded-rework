@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 55,
+    "minestuck:gold": 14,
+    "minestuck:uranium": 18
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:gamma_blaster"
+  }
+}

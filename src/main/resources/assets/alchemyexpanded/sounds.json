@@ -1,0 +1,32 @@
+{
+	"item.gun.shoot": {
+		"category": "player",
+		"subtitle": "subtitles.alchemyexpanded.gunshot",
+		"sounds": [
+		{
+			"name": "alchemyexpanded:gun/gunshot",
+			"stream": false
+		}
+		]
+	},
+	"item.gun.reload": {
+		"category": "player",
+		"subtitle": "subtitles.alchemyexpanded.gun_reload",
+		"sounds": [
+		{
+			"name": "alchemyexpanded:gun/gun_reload",
+			"stream": false
+		}
+		]
+	},
+	"item.gun.laser": {
+		"category": "player",
+		"subtitle": "subtitles.alchemyexpanded.laser",
+		"sounds": [
+			{
+				"name": "alchemyexpanded:gun/laser",
+				"stream": false
+			}
+		]
+	}
+}

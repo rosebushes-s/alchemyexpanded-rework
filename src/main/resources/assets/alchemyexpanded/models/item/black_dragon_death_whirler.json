@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alchemyexpanded:item/black_dragon_death_whirler"
+  }
+}

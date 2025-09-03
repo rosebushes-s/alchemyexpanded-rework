@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:diamond": 114,
+    "minestuck:gold": 64,
+    "minestuck:ruby": 54
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:crystal_clawed_dragon_grip"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 45,
+    "minestuck:chalk": 16,
+    "minestuck:gold": 12,
+    "minestuck:iodine": 25
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:candy_carbine"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:gold": 197,
+    "minestuck:ruby": 10
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:golden_grip"
+  }
+}

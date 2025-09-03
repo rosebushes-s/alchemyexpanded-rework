@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:dito"
+  },
+  "input2": {
+    "item": "minestuck:phlegm_gushers"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:dito_detritus"
+}

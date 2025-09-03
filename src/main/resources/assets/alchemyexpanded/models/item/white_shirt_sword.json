@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "alchemyexpanded:item/whiteshirts/white_shirt_sword"
+    }
+}
+

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:white_shirt"
+  },
+  "input2": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:white_shirt_pickaxe"
+}

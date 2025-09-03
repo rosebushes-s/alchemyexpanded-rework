@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 140,
+    "minestuck:rust": 66,
+    "minestuck:uranium": 40
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:laser_rifle"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:cobalt": 84,
+    "minestuck:diamond": 84
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:cobalt_crystal_pulverizer"
+  }
+}

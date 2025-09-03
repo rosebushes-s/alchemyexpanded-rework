@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:square_glasses"
+  },
+  "input2": {
+    "item": "minecraft:black_dye"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:shades"
+}

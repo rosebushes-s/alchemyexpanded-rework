@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 162,
+    "minestuck:ruby": 12,
+    "minestuck:sulfur": 66,
+    "minestuck:tar": 48
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:wyvern_fire"
+  }
+}

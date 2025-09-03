@@ -1,0 +1,6 @@
+{
+  "parent": "alchemyexpanded:item/base_chainsaw",
+  "textures": {
+    "layer0": "alchemyexpanded:item/dragon_saw"
+  }
+}

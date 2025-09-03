@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:phlegm_gushers"
+  },
+  "input2": {
+    "item": "minecraft:milk_bucket"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:milk_gushers"
+}

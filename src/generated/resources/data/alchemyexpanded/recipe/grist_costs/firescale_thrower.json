@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 94,
+    "minestuck:mercury": 38,
+    "minestuck:ruby": 3,
+    "minestuck:tar": 45
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:firescale_thrower"
+  }
+}

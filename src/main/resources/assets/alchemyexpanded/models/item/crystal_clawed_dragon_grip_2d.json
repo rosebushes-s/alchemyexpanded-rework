@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "alchemyexpanded:item/crystal_clawed_dragon_grip"
+  }
+}

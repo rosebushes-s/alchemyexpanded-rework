@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:phlegm_gushers"
+  },
+  "input2": {
+    "item": "alchemyexpanded:wizard_berries"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:wizardberry_gushers"
+}

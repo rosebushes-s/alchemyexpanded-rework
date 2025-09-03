@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minecraft:honey_block"
+  },
+  "input2": {
+    "item": "minestuck:bug_on_a_stick"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:amber_chunk"
+}

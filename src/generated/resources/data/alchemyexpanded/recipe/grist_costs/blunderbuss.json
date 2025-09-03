@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 220,
+    "minestuck:gold": 15,
+    "minestuck:rust": 165,
+    "minestuck:sulfur": 73
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:blunderbuss"
+  }
+}

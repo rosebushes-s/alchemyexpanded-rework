@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:diamond": 55,
+    "minestuck:gold": 85
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:royal_knuckle"
+  }
+}

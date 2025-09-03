@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 485,
+    "minestuck:diamond": 32,
+    "minestuck:gold": 264,
+    "minestuck:uranium": 320
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:sun_rises"
+  }
+}

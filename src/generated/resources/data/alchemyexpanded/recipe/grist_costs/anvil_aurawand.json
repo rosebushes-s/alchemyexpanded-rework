@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 202,
+    "minestuck:ruby": 1,
+    "minestuck:rust": 106,
+    "minestuck:sulfur": 126
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:anvil_aurawand"
+  }
+}

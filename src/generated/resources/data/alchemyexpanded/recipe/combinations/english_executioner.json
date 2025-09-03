@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:gold_assault_rifle"
+  },
+  "input2": {
+    "item": "alchemyexpanded:green_sun_book"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:english_executioner"
+}

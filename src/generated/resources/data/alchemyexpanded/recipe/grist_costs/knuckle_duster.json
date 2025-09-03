@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 30,
+    "minestuck:mercury": 6,
+    "minestuck:rust": 12
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:knuckle_duster"
+  }
+}

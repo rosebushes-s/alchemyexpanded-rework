@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 40,
+    "minestuck:cobalt": 1,
+    "minestuck:tar": 20
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:fortunes_hand"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:revolver"
+  },
+  "input2": {
+    "item": "minestuck:crumply_hat"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:dapple_deuly"
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "alchemyexpanded:item/meltdown_mitt_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "alchemyexpanded:item/meltdown_mitt_2d"
+    },
+    "ground": {
+      "parent": "alchemyexpanded:item/meltdown_mitt_2d"
+    },
+    "fixed": {
+      "parent": "alchemyexpanded:item/meltdown_mitt_2d"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:nighttime_knockout"
+  },
+  "input2": {
+    "item": "minestuck:crew_poster"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:midnight_bruiser"
+}

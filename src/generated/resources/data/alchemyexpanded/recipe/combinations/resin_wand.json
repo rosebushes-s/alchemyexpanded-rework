@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:wand"
+  },
+  "input2": {
+    "item": "alchemyexpanded:amber_chunk"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:resin_wand"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:ammo"
+  },
+  "input2": {
+    "item": "minecraft:anvil"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:gun_parts"
+}

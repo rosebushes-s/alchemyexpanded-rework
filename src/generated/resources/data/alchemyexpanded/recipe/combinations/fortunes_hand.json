@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:gauntlet"
+  },
+  "input2": {
+    "item": "minestuck:eightball"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:fortunes_hand"
+}

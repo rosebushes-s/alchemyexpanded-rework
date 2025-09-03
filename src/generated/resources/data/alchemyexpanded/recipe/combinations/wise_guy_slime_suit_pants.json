@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:slime_suit_pants"
+  },
+  "input2": {
+    "item": "minestuck:wiseguy"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:wise_guy_slime_suit_pants"
+}

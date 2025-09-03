@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 45,
+    "minestuck:shale": 28,
+    "minestuck:tar": 28
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:pogo_shield"
+  }
+}

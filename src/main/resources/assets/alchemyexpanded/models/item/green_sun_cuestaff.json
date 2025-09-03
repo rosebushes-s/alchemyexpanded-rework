@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "alchemyexpanded:item/green_sun_cuestaff"
+  }
+}

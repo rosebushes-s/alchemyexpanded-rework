@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:machine_gun"
+  },
+  "input2": {
+    "item": "minestuck:crew_poster"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:girls_best_friend"
+}

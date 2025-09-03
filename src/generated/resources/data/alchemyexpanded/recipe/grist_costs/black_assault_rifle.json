@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 116,
+    "minestuck:rust": 58,
+    "minestuck:tar": 28
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:black_assault_rifle"
+  }
+}

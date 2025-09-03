@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:black_shirt"
+  },
+  "input2": {
+    "item": "minecraft:cyan_dye"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:black_shirt_libra"
+}

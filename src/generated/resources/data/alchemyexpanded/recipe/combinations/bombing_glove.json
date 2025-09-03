@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:boxing_glove"
+  },
+  "input2": {
+    "item": "minecraft:tnt"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:bombing_glove"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:golden_grip"
+  },
+  "input2": {
+    "item": "minestuck:eightball"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:foresight_dueler"
+}

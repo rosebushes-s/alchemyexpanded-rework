@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 340,
+    "minestuck:chalk": 142,
+    "minestuck:diamond": 55,
+    "minestuck:marble": 73
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:annies_got_a_gun"
+  }
+}

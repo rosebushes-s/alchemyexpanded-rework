@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 162,
+    "minestuck:sulfur": 82,
+    "minestuck:tar": 66
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:bombing_glove"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:crew_skirt"
+  },
+  "input2": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:dead_shuffle_skirt"
+}

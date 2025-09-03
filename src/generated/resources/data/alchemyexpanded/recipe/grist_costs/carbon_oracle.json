@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:cobalt": 42,
+    "minestuck:diamond": 146,
+    "minestuck:mercury": 64
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:carbon_oracle"
+  }
+}

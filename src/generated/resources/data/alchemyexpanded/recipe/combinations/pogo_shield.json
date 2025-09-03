@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:copper_shield"
+  },
+  "input2": {
+    "item": "minecraft:slime_ball"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:pogo_shield"
+}

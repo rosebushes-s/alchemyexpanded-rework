@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "alchemyexpanded:item/gauntlet_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "alchemyexpanded:item/gauntlet_2d"
+    },
+    "ground": {
+      "parent": "alchemyexpanded:item/gauntlet_2d"
+    },
+    "fixed": {
+      "parent": "alchemyexpanded:item/gauntlet_2d"
+    }
+  }
+}

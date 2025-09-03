@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:flintlock_rifle"
+  },
+  "input2": {
+    "item": "minecraft:leather"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:rifle"
+}

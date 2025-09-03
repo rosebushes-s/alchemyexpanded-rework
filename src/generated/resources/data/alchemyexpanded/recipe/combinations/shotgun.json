@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:gun_parts"
+  },
+  "input2": {
+    "item": "minecraft:blaze_powder"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:shotgun"
+}

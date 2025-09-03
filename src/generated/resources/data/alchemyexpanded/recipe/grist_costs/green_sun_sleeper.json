@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 1368,
+    "minestuck:chalk": 1048,
+    "minestuck:uranium": 856
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:green_sun_sleeper"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:resin_wand"
+  },
+  "input2": {
+    "item": "minecraft:anvil"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:anvil_aurawand"
+}

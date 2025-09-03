@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:key_to_the_machine"
+  },
+  "input2": {
+    "item": "alchemyexpanded:cursed_tape"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:ghost_in_the_machine"
+}

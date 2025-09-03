@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:shades"
+  },
+  "input2": {
+    "item": "minestuck:gamebro_magazine"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:anime_shades"
+}

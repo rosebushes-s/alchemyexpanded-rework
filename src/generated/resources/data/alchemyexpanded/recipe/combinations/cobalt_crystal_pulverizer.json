@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:fortunes_hand"
+  },
+  "input2": {
+    "item": "minecraft:diamond"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:cobalt_crystal_pulverizer"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:rifle"
+  },
+  "input2": {
+    "item": "minestuck:barbasol_bomb"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:barbasol_bomb_launcher"
+}

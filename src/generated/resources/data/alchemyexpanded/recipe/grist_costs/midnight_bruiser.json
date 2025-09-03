@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amethyst": 76,
+    "minestuck:diamond": 10,
+    "minestuck:tar": 56
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:midnight_bruiser"
+  }
+}

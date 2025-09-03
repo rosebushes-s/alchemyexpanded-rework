@@ -1,0 +1,6 @@
+{
+  "parent": "alchemyexpanded:item/base_gauntlet",
+  "textures": {
+    "0": "alchemyexpanded:item/glove/fortunes_hand"
+  }
+}

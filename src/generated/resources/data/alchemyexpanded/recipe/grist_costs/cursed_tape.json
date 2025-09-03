@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:amethyst": 6,
+    "minestuck:build": 6,
+    "minestuck:shale": 6
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:cursed_tape"
+  }
+}

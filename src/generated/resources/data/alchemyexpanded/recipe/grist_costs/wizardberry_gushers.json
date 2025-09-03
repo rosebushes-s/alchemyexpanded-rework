@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 74,
+    "minestuck:diamond": 16,
+    "minestuck:gold": 36,
+    "minestuck:mercury": 42
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:wizardberry_gushers"
+  }
+}

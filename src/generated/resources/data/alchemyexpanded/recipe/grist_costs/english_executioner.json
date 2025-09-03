@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:chalk": 7612,
+    "minestuck:gold": 9612,
+    "minestuck:uranium": 2160,
+    "minestuck:zillium": 1
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:english_executioner"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:laser_rifle"
+  },
+  "input2": {
+    "item": "minestuck:transportalizer"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:appearifier_rifle"
+}

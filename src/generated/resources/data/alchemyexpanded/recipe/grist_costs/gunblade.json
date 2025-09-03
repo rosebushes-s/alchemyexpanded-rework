@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 46,
+    "minestuck:garnet": 3,
+    "minestuck:rust": 24
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:gunblade"
+  }
+}

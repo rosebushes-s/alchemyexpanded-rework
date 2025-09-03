@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:rifle"
+  },
+  "input2": {
+    "item": "minecraft:iron_sword"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:gunblade"
+}

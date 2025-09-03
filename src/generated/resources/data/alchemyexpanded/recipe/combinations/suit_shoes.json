@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minecraft:leather_boots"
+  },
+  "input2": {
+    "item": "minecraft:black_concrete"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:suit_shoes"
+}

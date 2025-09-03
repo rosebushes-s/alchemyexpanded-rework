@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:regiknuckle"
+  },
+  "input2": {
+    "item": "minecraft:gold_ingot"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:royal_knuckle"
+}

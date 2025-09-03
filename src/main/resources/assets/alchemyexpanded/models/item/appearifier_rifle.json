@@ -1,0 +1,6 @@
+{
+  "parent": "alchemyexpanded:item/base_gun",
+  "textures": {
+    "layer0": "alchemyexpanded:item/appearifier_rifle"
+  }
+}

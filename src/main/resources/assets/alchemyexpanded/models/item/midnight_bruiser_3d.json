@@ -1,0 +1,6 @@
+{
+  "parent": "alchemyexpanded:item/base_glove",
+  "textures": {
+    "0": "alchemyexpanded:item/glove/midnight_bruiser"
+  }
+}

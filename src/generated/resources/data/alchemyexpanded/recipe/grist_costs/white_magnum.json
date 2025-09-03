@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 6120,
+    "minestuck:gold": 4612,
+    "minestuck:uranium": 3413
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:white_magnum"
+  }
+}

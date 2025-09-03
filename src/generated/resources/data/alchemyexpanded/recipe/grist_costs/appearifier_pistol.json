@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:ruby": 630,
+    "minestuck:rust": 240,
+    "minestuck:uranium": 334
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:appearifier_pistol"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 36,
+    "minestuck:gold": 1,
+    "minestuck:rust": 12
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:gauntlet"
+  }
+}

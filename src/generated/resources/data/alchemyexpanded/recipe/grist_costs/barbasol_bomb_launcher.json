@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 120,
+    "minestuck:rust": 92,
+    "minestuck:shale": 40
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:barbasol_bomb_launcher"
+  }
+}

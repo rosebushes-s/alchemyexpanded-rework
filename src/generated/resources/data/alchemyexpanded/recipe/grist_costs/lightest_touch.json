@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 228,
+    "minestuck:chalk": 145,
+    "minestuck:quartz": 30
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:lightest_touch"
+  }
+}

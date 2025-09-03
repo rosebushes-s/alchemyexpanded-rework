@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 62,
+    "minestuck:rust": 54
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:razor_shield"
+  }
+}

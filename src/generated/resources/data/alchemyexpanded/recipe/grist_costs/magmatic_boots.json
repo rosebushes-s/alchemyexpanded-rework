@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 238,
+    "minestuck:garnet": 1,
+    "minestuck:sulfur": 164,
+    "minestuck:tar": 182
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:magmatic_boots"
+  }
+}

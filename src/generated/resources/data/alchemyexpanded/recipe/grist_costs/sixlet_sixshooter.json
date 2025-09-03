@@ -1,0 +1,12 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 55,
+    "minestuck:chalk": 30,
+    "minestuck:iodine": 16,
+    "minestuck:mercury": 12
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:sixlet_sixshooter"
+  }
+}

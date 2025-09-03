@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "alchemyexpanded:item/royal_knuckle_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "alchemyexpanded:item/royal_knuckle_2d"
+    },
+    "ground": {
+      "parent": "alchemyexpanded:item/royal_knuckle_2d"
+    },
+    "fixed": {
+      "parent": "alchemyexpanded:item/royal_knuckle_2d"
+    }
+  }
+}

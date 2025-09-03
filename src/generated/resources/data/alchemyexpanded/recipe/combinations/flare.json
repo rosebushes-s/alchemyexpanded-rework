@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:ammo"
+  },
+  "input2": {
+    "item": "minecraft:fire_charge"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:flare"
+}

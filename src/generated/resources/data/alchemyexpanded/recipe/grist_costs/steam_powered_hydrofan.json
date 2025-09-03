@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 74,
+    "minestuck:ruby": 10,
+    "minestuck:rust": 46
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:steam_powered_hydrofan"
+  }
+}

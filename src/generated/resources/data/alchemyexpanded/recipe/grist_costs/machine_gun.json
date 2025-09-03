@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 120,
+    "minestuck:rust": 30,
+    "minestuck:tar": 50
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:machine_gun"
+  }
+}

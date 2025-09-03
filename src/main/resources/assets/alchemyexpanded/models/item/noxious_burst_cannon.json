@@ -1,0 +1,6 @@
+{
+  "parent": "alchemyexpanded:item/base_pistol",
+  "textures": {
+    "layer0": "alchemyexpanded:item/noxious_burst_cannon"
+  }
+}

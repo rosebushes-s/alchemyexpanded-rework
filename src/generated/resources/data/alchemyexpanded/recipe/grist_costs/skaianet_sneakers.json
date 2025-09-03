@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:build": 3500,
+    "minestuck:diamond": 1,
+    "minestuck:uranium": 500
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:skaianet_sneakers"
+  }
+}

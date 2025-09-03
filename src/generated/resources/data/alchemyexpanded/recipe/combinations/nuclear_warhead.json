@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "minestuck:candy_corn"
+  },
+  "input2": {
+    "item": "minestuck:raw_uranium"
+  },
+  "mode": "and",
+  "output": "alchemyexpanded:nuclear_warhead"
+}

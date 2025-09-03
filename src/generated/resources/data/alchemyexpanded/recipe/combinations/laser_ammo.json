@@ -1,0 +1,11 @@
+{
+  "type": "minestuck:combination",
+  "input1": {
+    "item": "alchemyexpanded:ammo"
+  },
+  "input2": {
+    "item": "minestuck:battery"
+  },
+  "mode": "or",
+  "output": "alchemyexpanded:laser_ammo"
+}

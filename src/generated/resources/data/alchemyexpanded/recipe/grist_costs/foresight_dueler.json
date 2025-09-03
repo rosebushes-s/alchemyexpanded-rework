@@ -1,0 +1,10 @@
+{
+  "type": "minestuck:grist_cost",
+  "grist_cost": {
+    "minestuck:cobalt": 824,
+    "minestuck:quartz": 15
+  },
+  "ingredient": {
+    "item": "alchemyexpanded:foresight_dueler"
+  }
+}
