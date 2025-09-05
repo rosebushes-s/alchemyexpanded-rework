@@ -28,7 +28,7 @@ public class AERecipeProvider extends RecipeProvider {
         ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, (ItemLike)AEItems.FLINTLOCK_RIFLE.get()).define('#', (ItemLike)AEItems.FLINTLOCK_PISTOL.get()).define('!', (ItemLike)Items.COPPER_INGOT).define('@', (ItemLike)Items.IRON_INGOT).pattern("  !").pattern(" # ").pattern("@  ").unlockedBy("has_flintlock_pistol", has((ItemLike)AEItems.FLINTLOCK_PISTOL.get())).save(recipeBuilder);
         ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, (ItemLike)AEItems.YOYO.get()).define('#', (ItemLike)Items.GOLD_INGOT).define('&', (ItemLike)Items.IRON_NUGGET).define('%', (ItemLike)Items.STRING).pattern(" # ").pattern("#&#").pattern(" #%").unlockedBy("has_gold", has((ItemLike)Items.GOLD_INGOT)).save(recipeBuilder);
         ShapedRecipeBuilder.shaped(RecipeCategory.COMBAT, (ItemLike)AEItems.BOXING_GLOVE.get()).define('#', (ItemLike)Items.LEATHER).define('&', (ItemLike)Items.IRON_INGOT).define('*', (ItemLike)Items.STRING).pattern("###").pattern("#&#").pattern("##*").unlockedBy("has_leather", has((ItemLike)Items.LEATHER)).save(recipeBuilder);
-        AEGristCostProvider.buildRecipes(recipeBuilder);
+        //AEGristCostProvider.buildRecipes(recipeBuilder);
         AECombinationsProvider.buildRecipes(recipeBuilder);
     }
 
